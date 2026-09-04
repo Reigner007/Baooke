@@ -1,0 +1,5 @@
+<svg width="200" height="80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="80" fill="#4A148C"/>
+  <text x="100" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">BAOOKE</text>
+  <text x="100" y="62" font-family="Arial, sans-serif" font-size="10" font-weight="600" fill="#FFD600" text-anchor="middle" letter-spacing="2">GLOBAL SERVICES</text>
+</svg>

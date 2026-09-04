@@ -1,0 +1,8 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#F0F0F0"/>
+  <rect x="80" y="120" width="240" height="160" fill="#E8E8F0" rx="8"/>
+  <rect x="100" y="140" width="200" height="100" fill="#4A148C" rx="4"/>
+  <rect x="120" y="160" width="80" height="60" fill="#7B1FA2" rx="4"/>
+  <rect x="140" y="260" width="120" height="20" fill="#E8E8F0" rx="4"/>
+  <text x="200" y="320" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#4A148C" text-anchor="middle">Printers</text>
+</svg>

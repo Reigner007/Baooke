@@ -1,0 +1,8 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#F0F0F0"/>
+  <circle cx="200" cy="180" r="100" fill="#E8E8F0"/>
+  <circle cx="200" cy="180" r="80" fill="#4A148C"/>
+  <circle cx="200" cy="180" r="40" fill="#FFD600" opacity="0.3"/>
+  <rect x="120" y="300" width="160" height="50" fill="#E8E8F0" rx="4"/>
+  <text x="200" y="370" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#4A148C" text-anchor="middle">Washing Machines</text>
+</svg>

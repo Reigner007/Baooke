@@ -1,0 +1,8 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#F0F0F0"/>
+  <rect x="60" y="60" width="280" height="240" fill="#E8E8F0" rx="8"/>
+  <rect x="80" y="80" width="240" height="180" fill="#4A148C" rx="6"/>
+  <rect x="120" y="280" width="160" height="60" fill="#E8E8F0" rx="4"/>
+  <rect x="140" y="290" width="120" height="40" fill="#FFD600" opacity="0.3" rx="4"/>
+  <text x="200" y="380" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#4A148C" text-anchor="middle">Smart TVs</text>
+</svg>
