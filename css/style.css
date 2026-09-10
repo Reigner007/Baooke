@@ -551,12 +551,12 @@ ul {
 }
 
 .hero-buttons {
-    animation: slideUp 0.6s var(--transition-slow) 0.4s forwards;
+    animation: slideUp 0.6s var(--transition-slow) 0.5s forwards;
     opacity: 0;
 }
 
 .hero-location {
-    animation: slideUp 0.6s var(--transition-slow) 0.6s forwards;
+    animation: slideUp 0.6s var(--transition-slow) 0.7s forwards;
     opacity: 0;
 }
 
@@ -579,6 +579,20 @@ ul {
     font-size: 0.75rem;
     color: var(--text-muted);
     text-shadow: 0 0 10px rgba(168, 85, 247, 0.3);
+}
+
+.hero-tagline {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--primary);
+    margin-bottom: 20px;
+    padding: 12px 16px;
+    background: rgba(37, 99, 235, 0.1);
+    border: 1px solid rgba(37, 99, 235, 0.2);
+    border-radius: var(--radius-md);
+    display: inline-block;
+    animation: slideUp 0.6s var(--transition-slow) 0.4s forwards;
+    opacity: 0;
 }
 
 .hero-image {
