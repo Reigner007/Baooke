@@ -177,23 +177,6 @@ function initMobileMenu() {
     });
 }
 
-function initStickyHeader() {
-    const header = document.getElementById('header');
-    let lastScroll = 0;
-
-    window.addEventListener('scroll', () => {
-        const currentScroll = window.pageYOffset;
-
-        if (currentScroll > 50) {
-            header.classList.add('scrolled');
-        } else {
-            header.classList.remove('scrolled');
-        }
-
-        lastScroll = currentScroll;
-    });
-}
-
 function initSmoothScroll() {
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function(e) {
@@ -203,8 +186,7 @@ function initSmoothScroll() {
             const target = document.querySelector(targetId);
             if (target) {
                 e.preventDefault();
-                const headerHeight = document.getElementById('header').offsetHeight;
-                const targetPosition = target.getBoundingClientRect().top + window.pageYOffset - headerHeight;
+                const targetPosition = target.getBoundingClientRect().top + window.pageYOffset;
 
                 window.scrollTo({
                     top: targetPosition,
@@ -325,7 +307,6 @@ function initWhatsAppProductButtons() {
 document.addEventListener('DOMContentLoaded', () => {
     renderProducts();
     initMobileMenu();
-    initStickyHeader();
     initSmoothScroll();
     initBackToTop();
     initContactForm();
