@@ -6,73 +6,73 @@ const products = [
         name: 'Smartphones',
         category: 'Phones & Tablets',
         description: 'Latest smartphones from trusted brands including Samsung, Tecno, Infinix, and more.',
-        image: 'https://placehold.co/400x400/7c3aed/ffffff?text=Smartphones'
+        image: 'assets/images/New folder/smartphones.webp'
     },
     {
         name: 'Tablets',
         category: 'Phones & Tablets',
         description: 'Tablets for work, study, and entertainment from leading manufacturers.',
-        image: 'https://placehold.co/400x400/7c3aed/ffffff?text=Tablets'
+        image: 'assets/images/New folder/tablets.webp'
     },
     {
         name: 'Laptops',
         category: 'Computers & Laptops',
         description: 'Laptops for business, gaming, and everyday use from HP, Lenovo, Dell, and more.',
-        image: 'https://placehold.co/400x400/7c3aed/ffffff?text=Laptops'
+        image: 'assets/images/New folder/laptops.webp'
     },
     {
         name: 'Desktop Computers',
         category: 'Computers & Laptops',
         description: 'Desktop PCs and workstations for home and office.',
-        image: 'https://placehold.co/400x400/7c3aed/ffffff?text=Desktop+Computers'
+        image: 'assets/images/New folder/desktop computers.webp'
     },
     {
         name: 'Smart TVs',
         category: 'TVs & Entertainment',
         description: 'Smart televisions with 4K resolution, HDR, and streaming apps.',
-        image: 'https://placehold.co/400x400/7c3aed/ffffff?text=Smart+TVs'
+        image: 'assets/images/New folder/smart tvs.webp'
     },
     {
         name: 'Refrigerators',
         category: 'Home Appliances',
         description: 'Refrigerators and freezers in various sizes and configurations.',
-        image: 'https://placehold.co/400x400/7c3aed/ffffff?text=Refrigerators'
+        image: 'assets/images/New folder/refrigerator.webp'
     },
     {
         name: 'Washing Machines',
         category: 'Home Appliances',
         description: 'Front-load and top-load washing machines for every household.',
-        image: 'https://placehold.co/400x400/7c3aed/ffffff?text=Washing+Machines'
+        image: 'assets/images/New folder/washing machine.webp'
     },
     {
         name: 'Generators & Power Equipment',
         category: 'Power Solutions',
         description: 'Generators, inverters, solar panels, and UPS systems for reliable power.',
-        image: 'https://placehold.co/400x400/7c3aed/ffffff?text=Generators'
+        image: 'assets/images/New folder/generator.webp'
     },
     {
         name: 'CCTV Cameras',
         category: 'Security & Surveillance',
         description: 'Security cameras, DVRs, NVRs, and complete surveillance systems.',
-        image: 'https://placehold.co/400x400/7c3aed/ffffff?text=CCTV+Cameras'
+        image: 'assets/images/New folder/cctv.webp'
     },
     {
         name: 'Security Equipment',
         category: 'Security & Surveillance',
         description: 'Alarm systems, access control, and security accessories.',
-        image: 'https://placehold.co/400x400/7c3aed/ffffff?text=Security+Equipment'
+        image: 'assets/images/New folder/security equipment.webp'
     },
     {
         name: 'Printers',
         category: 'Printers & Accessories',
         description: 'Inkjet, laser, and all-in-one printers for home and office.',
-        image: 'https://placehold.co/400x400/7c3aed/ffffff?text=Printers'
+        image: 'assets/images/New folder/printer.webp'
     },
     {
         name: 'Home Appliances',
         category: 'Electronics',
         description: 'Microwaves, blenders, air fryers, and other kitchen appliances.',
-        image: 'https://placehold.co/400x400/7c3aed/ffffff?text=Home+Appliances'
+        image: 'assets/images/New folder/home appliances.webp'
     }
 ];
 
